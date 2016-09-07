@@ -3,7 +3,7 @@
 	主体编写:点石Tommy | http://liuzhen.cug.biz/tommy
 	指导：点石吴永城
 	材料收集：点石团队成员
-	 体验地址：[ http://liuzhen.cug.biz/book](http://liuzhen.cug.biz/book " 地大新生手册 ")
+	 体验地址：[http://liuzhen.cug.biz/book](http://liuzhen.cug.biz/book)
 #运用开源项目
 	1.bootstrap ：主要用其栅格系统进行布局
 	2.Hui，作者新生帝 ，开源地址：https://git.oschina.net/winu.net/Hui.git。
