@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/*!
+ * 文件名称：tommy-iframe.css
+ * 文件作者：Tommy
+ * 编写日期：2016年07月29日
+ * 个人博客：http://www.liuzhen.cug.biz/tommy
+ * 文件描述：中国地质大学（武汉）新生手册--iframe内容样式
+ */
+
+.t-if-hr{
+	height: 1px;
+	background: #fff;
+	margin: 1rem 0;
+}
+.t-font-color-777{
+	color:#777777;
+}
+.t-if-footer{
+	height:6rem;
+	width:100%;
+}
