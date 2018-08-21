@@ -1,9 +1,9 @@
 # 中国地质大学（武汉） 新生手册 
 	开始日期：2016-7-27
-	主体编写:点石Tommy | http://liuzhen.cug.biz/tommy
+	主体编写:点石Tommy 
 	指导：点石吴永城
 	材料收集：点石团队成员
-	体验地址：[http://liuzhen.cug.biz/book](http://liuzhen.cug.biz/book)
+	体验方式：直接下载项目后用浏览器打开即可，想看移动端效果记得F12
 # 运用开源项目
 	1.bootstrap ：主要用其栅格系统进行布局
 	2.Hui，作者新生帝 ，开源地址：https://git.oschina.net/winu.net/Hui.git。
